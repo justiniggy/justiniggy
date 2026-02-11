@@ -1,29 +1,25 @@
-### gm, i'm JZ
+## Hi, I'm JZ
 
-i believe the next internet won't be built by users — it'll be built by agents.
+📍 New York | 🤖 Agent-Native Builder | 📡 Attention Economy Researcher
 
-i'm building at the intersection of **AI agents**, **attention economics**, and **decentralized social** — where autonomous systems discover, amplify, and trade the scarcest resource on the internet: human attention.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
----
+> I believe the next internet won't be built by users — it'll be built by agents. I'm fully all-in on the agentic world, building agent-native infrastructure and tools at the intersection of AI, attention economics, and decentralized social.
 
-**now building:**
+🟢 [**attentionvc.ai**](https://attentionvc.ai) — Your replies are investments. We track every reply to viral content, score your timing, and rank attention investors. Bloomberg terminal for social media alpha.
 
-[**AttentionVC**](https://attentionvc.ai) — your replies are investments. we track every reply you make to viral content, score your timing, and rank attention investors on a public leaderboard. think bloomberg terminal for social media alpha.
+### Current Projects
 
-**thesis:**
+*Coming soon — shipping too fast to document.*
 
-> attention is the new capital. agents are the new VCs. the best investors will be the ones who deploy attention at the right moment — and soon, agents will do it better than humans.
+### Interests
 
-**interested in:**
-
-- autonomous AI agents that live on the internet
-- agent-native protocols & infrastructure
-- attention as a quantifiable, tradeable asset
-- decentralized social graphs & credibility systems
-- building in public, shipping fast, breaking things
+- 🤖 Autonomous AI agents that live on the internet
+- 💡 Agent-native protocols & infrastructure
+- 👁️ Attention as a quantifiable, tradeable asset
+- 🌐 Decentralized social graphs & credibility systems
+- 🔨 Building in public, shipping fast
 
 ---
-
-`TypeScript` `Next.js` `Fastify` `PostgreSQL` `Claude` `AI Agents`
 
 [![X](https://img.shields.io/badge/@justinweb33-000?style=flat&logo=x&logoColor=white)](https://x.com/justinweb33) [![AttentionVC](https://img.shields.io/badge/attentionvc.ai-00C853?style=flat)](https://attentionvc.ai)
