@@ -1,31 +1,29 @@
-```
-     ██╗███████╗
-     ██║╚══███╔╝
-     ██║  ███╔╝
-██   ██║ ███╔╝
-╚█████╔╝███████╗
- ╚════╝ ╚══════╝
-```
+### gm, i'm JZ
 
-**Building the future of attention economics.**
+i believe the next internet won't be built by users — it'll be built by agents.
 
-I build tools that track, measure, and reward attention on the internet. Currently shipping [AttentionVC](https://attentionvc.ai) — a platform that turns social media replies into quantifiable investments.
-
-#### Now
-
-- Founder of **AttentionVC** — attention investor leaderboard & analytics
-- Exploring AI agents, LLM tooling, and autonomous systems
-- Building in public from NYC
-
-#### Stack
-
-`TypeScript` `Next.js` `Fastify` `PostgreSQL` `Prisma` `Cloud Run` `Claude`
-
-#### Links
-
-[![X](https://img.shields.io/badge/@justinweb33-000?style=flat&logo=x&logoColor=white)](https://x.com/justinweb33)
-[![AttentionVC](https://img.shields.io/badge/AttentionVC-00C853?style=flat&logoColor=white)](https://attentionvc.ai)
+i'm building at the intersection of **AI agents**, **attention economics**, and **decentralized social** — where autonomous systems discover, amplify, and trade the scarcest resource on the internet: human attention.
 
 ---
 
-<sub>*rebuild the ai world, build in public (since 2026)*</sub>
+**now building:**
+
+[**AttentionVC**](https://attentionvc.ai) — your replies are investments. we track every reply you make to viral content, score your timing, and rank attention investors on a public leaderboard. think bloomberg terminal for social media alpha.
+
+**thesis:**
+
+> attention is the new capital. agents are the new VCs. the best investors will be the ones who deploy attention at the right moment — and soon, agents will do it better than humans.
+
+**interested in:**
+
+- autonomous AI agents that live on the internet
+- agent-native protocols & infrastructure
+- attention as a quantifiable, tradeable asset
+- decentralized social graphs & credibility systems
+- building in public, shipping fast, breaking things
+
+---
+
+`TypeScript` `Next.js` `Fastify` `PostgreSQL` `Claude` `AI Agents`
+
+[![X](https://img.shields.io/badge/@justinweb33-000?style=flat&logo=x&logoColor=white)](https://x.com/justinweb33) [![AttentionVC](https://img.shields.io/badge/attentionvc.ai-00C853?style=flat)](https://attentionvc.ai)
